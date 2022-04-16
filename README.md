@@ -1,1 +1,2 @@
-This consist of basics of html css and javascript
+This consist of basic web page made by using implementing baisc HTML, CSS and JAVASCRIPT
+
